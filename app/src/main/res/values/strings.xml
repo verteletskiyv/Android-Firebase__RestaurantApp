@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Food Delivery App</string>
+    <string name="register">Sign Up</string>
+    <string name="login">Sign In</string>
+    <string name="loginUser">Log in</string>
+    <string name="addToCart">Add to cart</string>
+    <string name="hintPhone">Phone number</string>
+    <string name="hintName">Full name</string>
+    <string name="hintPass">Password</string>
+    <string name="btnGoToCart">Proceed to cart</string>
+    <string name="textCart">Cart</string>
+    <string name="btnMakeOrder">Submit order</string>
+    <string name="slogan">Eat anywhere: at home, at work, in the office and the subway! This app will help you order food anywhere</string>
+</resources>

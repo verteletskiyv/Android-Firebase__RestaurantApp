@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_vegan.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\vegan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_fish.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\fish.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_pizza.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\pizza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.study.fooddeliveryapp-merged_res-29:/layout_activity_cart.xml.flat",
+        "source": "com.study.fooddeliveryapp-main-31:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_soup.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\soup.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_burger.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\burger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_sandwich.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\sandwich.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\layout_activity_food_page.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\layout\\activity_food_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\layout_food_item_in_list.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\layout\\food_item_in_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\layout_cart_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_meat.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\meat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_background.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_chicken.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\chicken.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\layout_activity_food_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\layout\\activity_food_detail.xml"
+    }
+]
