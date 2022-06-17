@@ -44,10 +44,6 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.study.fooddeliveryapp-merged_res-29:/layout_activity_cart.xml.flat",
-        "source": "com.study.fooddeliveryapp-main-31:/layout/activity_cart.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\drawable-v24_soup.jpg.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\drawable-v24\\soup.jpg"
     },
@@ -86,6 +82,10 @@
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.study.fooddeliveryapp-merged_res-29:/drawable_logo.png.flat",
+        "source": "com.study.fooddeliveryapp-main-31:/drawable/logo.png"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.study.fooddeliveryapp-merged_res-29:\\layout_activity_food_page.xml.flat",

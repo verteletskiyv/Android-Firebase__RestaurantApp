@@ -9,25 +9,25 @@
     <color name="teal_200">#3c3c3c</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="addToCart">Добавить в корзину</string>
+    <string name="addToCart">Add to cart</string>
     <string name="app_name">Food Delivery App</string>
-    <string name="btnGoToCart">Перейти в корзину</string>
-    <string name="btnMakeOrder">Оформить заказ</string>
+    <string name="btnGoToCart">Proceed to cart</string>
+    <string name="btnMakeOrder">Submit order</string>
     <string name="default_web_client_id" translatable="false">795884875733-pcc597oj1o4mj3h0dg1snb1dgicuin6u.apps.googleusercontent.com</string>
     <string name="gcm_defaultSenderId" translatable="false">795884875733</string>
     <string name="google_api_key" translatable="false">AIzaSyBcJsyy2OguOuyfsvmq6FEq6xTjvr0hisw</string>
     <string name="google_app_id" translatable="false">1:795884875733:android:7c9207d4a826e71ae4175c</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBcJsyy2OguOuyfsvmq6FEq6xTjvr0hisw</string>
     <string name="google_storage_bucket" translatable="false">food-delivery-app-61b40.appspot.com</string>
-    <string name="hintName">Введите имя</string>
-    <string name="hintPass">Пароль</string>
-    <string name="hintPhone">Номер телефона</string>
-    <string name="login">Авторизация</string>
-    <string name="loginUser">Войти в кабинет</string>
+    <string name="hintName">Full name</string>
+    <string name="hintPass">Password</string>
+    <string name="hintPhone">Phone number</string>
+    <string name="login">Sign In</string>
+    <string name="loginUser">Log in</string>
     <string name="project_id" translatable="false">food-delivery-app-61b40</string>
-    <string name="register">Регистрация</string>
-    <string name="slogan">Кушайте везде: дома, на работе, в офисе и метро! Наше приложение поможет вам заказывать еду куда-угодно</string>
-    <string name="textCart">Корзина</string>
+    <string name="register">Sign Up</string>
+    <string name="slogan">Eat anywhere: at home, at work, in the office and the subway! This app will help you order food anywhere</string>
+    <string name="textCart">Cart</string>
     <style name="Theme.FoodDeliveryApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
