@@ -84,7 +84,7 @@ public class FoodDetail extends AppCompatActivity {
                 Food food_item = snapshot.getValue(Food.class);
 
                 FoodFullName.setText(food_item.getFull_text());
-                price.setText(food_item.getPrice() + " $");
+                price.setText("$ " + food_item.getPrice());
             }
 
             @Override
