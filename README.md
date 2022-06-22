@@ -1,5 +1,7 @@
 # Food-Delivery-App
-Simple food delivery app for android. +Firebase
+Simple food delivery app for android built with Firebase's RealtimeDB. 
+* Account system (Registration and Login activities).
+* Order system - Users can add items to their cart and then confirm orders, which will be sent to firebase (the cart cleans up once the order is confirmed). 
 
 ![1](https://user-images.githubusercontent.com/104847360/174295116-d4dff0b6-351f-4092-bf08-2525bc991075.png)
 ![2](https://user-images.githubusercontent.com/104847360/174295157-7062c06d-b5cd-46d6-8eb3-b0d36c1aa97d.png)
